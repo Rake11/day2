@@ -1,0 +1,42 @@
+.v{
+    background-image: url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/f6/a3/6a/rooftop-ambience.jpg?w=1200&h=-1&s=1");
+    color:white;
+    text-shadow: 3px 3px 3px white;
+}
+article{
+    background:linear-gradient(to bottom right ,gold,black);
+    text-shadow: 3px 3px 5px black;
+    padding-top:5px;
+    padding-bottom: 5px;
+}
+main{
+
+    background: linear-gradient(to bottom right,black,gold);
+}
+.box{
+    background-color: black;
+    padding: 0px 10px 0px 10px;
+    margin-left: 38%;
+    margin-right: 38%;
+    color:yellow;
+    border: 2px solid white;
+}
+.box2{
+    background-color: black;
+    padding: 0px 10px 0px 10px;
+    margin-left: 38%;
+    margin-right: 38%;
+    color:yellow;
+    border: 2px solid white;
+}
+.box3{
+    background-color: black;
+    padding: 0px 10px 0px 10px;
+    margin-left: 38%;
+    margin-right: 38%;
+    color:yellow;
+    border: 2px solid white;
+}
+.q{
+    color:gray
+}
